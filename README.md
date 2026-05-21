@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berguntin
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning AI Agent development
 - 📫 How to reach me: https://www.linkedin.com/in/berguntin
 
 <!---
