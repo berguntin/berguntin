@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hugo Bermúdez 👋</h1>
-<h3 align="center">Frontend Engineer · Vue · Nuxt · TypeScript · AI-assisted development</h3>
+<h3 align="center">Full Stack Developer · Vue · Nuxt · TypeScript · Node.js · AI-assisted development</h3>
 
 <p align="center">
   <a href="https://berguntin.dev"><img src="https://img.shields.io/badge/Website-berguntin.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
@@ -12,13 +12,13 @@
 
 ### 🧑‍💻 About me
 
-- 🚀 Frontend Engineer with **4+ years** building SaaS products, B2B e-commerce and enterprise apps with **Vue 3, Nuxt and TypeScript**.
+- 🚀 Full Stack Developer with **4+ years** building SaaS products, B2B e-commerce and enterprise apps with **Vue 3, Nuxt, TypeScript and Node.js**, from the frontend to the API and deployment.
 - 🧭 Led the frontend of **Chronos**, a time-tracking SaaS used by InfortisaLabs and external clients.
 - 🤖 I work with AI agents every day (Claude Code, Copilot, Codex) and ship AI features to production: semantic and image search with embeddings, automated content moderation, and receipt reading with vision LLMs.
 - 🧪 I care about tests (Vitest, Playwright), clean architecture and fast web experiences (Core Web Vitals).
-- 🌍 Spanish (native) · English: professional working proficiency (EF SET C2 in reading & listening).
+- 🌍 Spanish (native) · English: professional working proficiency.
 - 🤝 Volunteer at **GDG Valencia**, helping organise tech events.
-- 📫 Open to frontend roles, either **remote in Spain or in Valencia**.
+- 📫 Open to full stack roles, either **remote in Spain or in Valencia**.
 
 ---
 
@@ -41,7 +41,7 @@
 Lost & found pet board born at a charity hackathon after the 2024 Valencia floods. Semantic and photo search with multimodal embeddings, AI moderation and form pre-fill from a photo.
 `Nuxt` `TypeScript` `Postgres/pgvector` `Redis` `OpenAI` `Gemini`
 
-**🧾 [Bill-Splitter](https://github.com/berguntin/bill-splitter)** · [Live demo](https://bill-splitterweb-production.up.railway.app/)
+**🧾 [Bill-Splitter](https://github.com/berguntin/bill-splitter)** · [Live demo](https://split.berguntin.dev)
 Snap a receipt, mark who had what, and everyone sees exactly what they owe, to the cent. Claude Haiku reads the receipt and falls back to Sonnet when the result looks unreliable.
 `Vue 3` `TypeScript` `Node/Express` `MongoDB` `Playwright` `Claude API`
 
