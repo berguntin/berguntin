@@ -16,7 +16,7 @@
 - 🧭 Led the frontend of **Chronos**, a time-tracking SaaS used by InfortisaLabs and external clients.
 - 🤖 I work with AI agents every day (Claude Code, Copilot, Codex) and ship AI features to production: semantic and image search with embeddings, automated content moderation, and receipt reading with vision LLMs.
 - 🧪 I care about tests (Vitest, Playwright), clean architecture and fast web experiences (Core Web Vitals).
-- 🌍 Spanish (native) · English (C2).
+- 🌍 Spanish (native) · English: professional working proficiency (EF SET C2 in reading & listening).
 - 🤝 Volunteer at **GDG Valencia**, helping organise tech events.
 - 📫 Open to frontend roles, either **remote in Spain or in Valencia**.
 
